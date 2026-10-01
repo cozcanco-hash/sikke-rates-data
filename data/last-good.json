@@ -1,0 +1,1012 @@
+{
+  "schemaVersion": 1,
+  "snapshot": {
+    "base": "USD",
+    "date": "2026-10-01",
+    "fetchedAt": "2026-10-01T08:23:10.983Z",
+    "rates": {
+      "AED": 3.6725,
+      "AFN": 65.012,
+      "ALL": 81.04,
+      "AMD": 363.17,
+      "ANG": 1.79,
+      "AOA": 917.61,
+      "ARS": 1523.18,
+      "AUD": 1.4338,
+      "AWG": 1.7896,
+      "AZN": 1.6994,
+      "BAM": 1.7228,
+      "BBD": 2.0418,
+      "BDT": 123,
+      "BHD": 0.376,
+      "BIF": 2998.91,
+      "BMD": 1,
+      "BND": 1.2774,
+      "BOB": 12.0165,
+      "BRL": 5.2033,
+      "BSD": 1.0084,
+      "BTN": 95.84,
+      "BWP": 13.7009,
+      "BYN": 3.011,
+      "BZD": 2.026,
+      "CAD": 1.4178,
+      "CDF": 2294.17,
+      "CHF": 0.83369,
+      "CLP": 971.95,
+      "CMD": 1,
+      "CNH": 6.7035,
+      "CNY": 6.6997,
+      "COP": 3327.06,
+      "CRC": 455.97,
+      "CUP": 24,
+      "CVE": 97.13,
+      "CZK": 21.525,
+      "DJF": 177.62,
+      "DKK": 6.5857,
+      "DOP": 60.022,
+      "DZD": 133.83,
+      "EGP": 51.979,
+      "ERN": 15.1717,
+      "ETB": 161.69,
+      "EUR": 0.88088,
+      "FJD": 2.2475,
+      "FKP": 0.75427,
+      "GBP": 0.75375,
+      "GEL": 2.6004,
+      "GGP": 0.75375,
+      "GHS": 11.6696,
+      "GIP": 0.76183,
+      "GMD": 73.725,
+      "GNF": 8792,
+      "GTQ": 7.6363,
+      "GYD": 210.63,
+      "HKD": 7.8519,
+      "HNL": 26.848,
+      "HTG": 130.75,
+      "HUF": 322.83,
+      "IDR": 17910,
+      "ILS": 3.0666,
+      "IMP": 0.75375,
+      "INR": 95.84,
+      "IQD": 1309.37,
+      "IRR": 1368147,
+      "ISK": 120.61,
+      "JEP": 0.75375,
+      "JMD": 157.76,
+      "JOD": 0.709,
+      "JPY": 157.35,
+      "KES": 129.57,
+      "KGS": 87.5,
+      "KHR": 4058.39,
+      "KMF": 434.06,
+      "KPW": 129.99,
+      "KRW": 1354.82,
+      "KWD": 0.30818,
+      "KYD": 0.83719,
+      "KZT": 440.09,
+      "LAK": 22312,
+      "LBP": 89682,
+      "LKR": 330.65,
+      "LRD": 171.51,
+      "LSL": 16.391,
+      "LYD": 6.3963,
+      "MAD": 9.6862,
+      "MDL": 17.7203,
+      "MGA": 4407.88,
+      "MKD": 54.278,
+      "MMK": 2098.24,
+      "MNT": 3594.23,
+      "MOP": 8.0875,
+      "MRO": 39.57,
+      "MRU": 40.064,
+      "MUR": 47.796,
+      "MVR": 15.4344,
+      "MWK": 1733.17,
+      "MXN": 18.0624,
+      "MYR": 4.08,
+      "MZN": 63.802,
+      "NAD": 16.4001,
+      "NGN": 1328.61,
+      "NIO": 36.624,
+      "NOK": 9.5928,
+      "NPR": 153.42,
+      "NZD": 1.7707,
+      "OMR": 0.3845,
+      "PAB": 0.99994,
+      "PEN": 3.4415,
+      "PGK": 4.4926,
+      "PHP": 62.66,
+      "PKR": 277.52,
+      "PLN": 3.8483,
+      "PYG": 5841,
+      "QAR": 3.64,
+      "RON": 4.6508,
+      "RSD": 103.54,
+      "RUB": 83.77,
+      "RWF": 1475.02,
+      "SAR": 3.75,
+      "SBD": 8.0076,
+      "SCR": 14.3825,
+      "SDG": 599.92,
+      "SEK": 9.9833,
+      "SGD": 1.2774,
+      "SHP": 0.75427,
+      "SLE": 24.506,
+      "SOS": 571.28,
+      "SRD": 37.684,
+      "SSP": 5730,
+      "STN": 21.68,
+      "SVC": 8.7497,
+      "SYP": 121.99,
+      "SZL": 16.3798,
+      "THB": 33.558,
+      "TJS": 9.2188,
+      "TMT": 3.5,
+      "TND": 2.9721,
+      "TOP": 2.3876,
+      "TRY": 49.009,
+      "TTD": 6.7455,
+      "TWD": 31.864,
+      "TZS": 2639.48,
+      "UAH": 44.741,
+      "UGX": 3914.69,
+      "USD": 1,
+      "UYU": 40.238,
+      "UZS": 11813,
+      "VES": 857.14,
+      "VND": 25925,
+      "VUV": 118.85,
+      "WST": 2.7552,
+      "XAF": 577.79,
+      "XAG": 0.01638,
+      "XAU": 0.00024,
+      "XCD": 2.7255,
+      "XCG": 1.8003,
+      "XDR": 0.73542,
+      "XOF": 577.79,
+      "XPD": 0.00082,
+      "XPF": 105.07,
+      "XPT": 0.00058,
+      "YER": 236.45,
+      "ZAR": 16.3715,
+      "ZMW": 19.5925,
+      "ZWG": 26.786
+    },
+    "source": "Frankfurter",
+    "cadence": "daily",
+    "dates": {
+      "AED": "2026-10-01",
+      "AFN": "2026-10-01",
+      "ALL": "2026-10-01",
+      "AMD": "2026-10-01",
+      "ANG": "2026-09-30",
+      "AOA": "2026-10-01",
+      "ARS": "2026-10-01",
+      "AUD": "2026-10-01",
+      "AWG": "2026-09-30",
+      "AZN": "2026-10-01",
+      "BAM": "2026-10-01",
+      "BBD": "2026-10-01",
+      "BDT": "2026-10-01",
+      "BHD": "2026-10-01",
+      "BIF": "2026-10-01",
+      "BMD": "2026-10-01",
+      "BND": "2026-10-01",
+      "BOB": "2026-10-01",
+      "BRL": "2026-10-01",
+      "BSD": "2026-10-01",
+      "BTN": "2026-10-01",
+      "BWP": "2026-10-01",
+      "BYN": "2026-10-01",
+      "BZD": "2026-10-01",
+      "CAD": "2026-10-01",
+      "CDF": "2026-10-01",
+      "CHF": "2026-10-01",
+      "CLP": "2026-10-01",
+      "CMD": "2026-09-30",
+      "CNH": "2026-10-01",
+      "CNY": "2026-10-01",
+      "COP": "2026-10-01",
+      "CRC": "2026-10-01",
+      "CUP": "2026-10-01",
+      "CVE": "2026-10-01",
+      "CZK": "2026-10-01",
+      "DJF": "2026-10-01",
+      "DKK": "2026-10-01",
+      "DOP": "2026-10-01",
+      "DZD": "2026-10-01",
+      "EGP": "2026-10-01",
+      "ERN": "2026-10-01",
+      "ETB": "2026-10-01",
+      "EUR": "2026-10-01",
+      "FJD": "2026-10-01",
+      "FKP": "2026-09-30",
+      "GBP": "2026-10-01",
+      "GEL": "2026-10-01",
+      "GGP": "2026-10-01",
+      "GHS": "2026-10-01",
+      "GIP": "2026-09-30",
+      "GMD": "2026-10-01",
+      "GNF": "2026-10-01",
+      "GTQ": "2026-10-01",
+      "GYD": "2026-10-01",
+      "HKD": "2026-10-01",
+      "HNL": "2026-10-01",
+      "HTG": "2026-10-01",
+      "HUF": "2026-10-01",
+      "IDR": "2026-10-01",
+      "ILS": "2026-10-01",
+      "IMP": "2026-10-01",
+      "INR": "2026-10-01",
+      "IQD": "2026-10-01",
+      "IRR": "2026-10-01",
+      "ISK": "2026-10-01",
+      "JEP": "2026-10-01",
+      "JMD": "2026-10-01",
+      "JOD": "2026-10-01",
+      "JPY": "2026-10-01",
+      "KES": "2026-10-01",
+      "KGS": "2026-10-01",
+      "KHR": "2026-10-01",
+      "KMF": "2026-10-01",
+      "KPW": "2026-10-01",
+      "KRW": "2026-10-01",
+      "KWD": "2026-10-01",
+      "KYD": "2026-09-30",
+      "KZT": "2026-10-01",
+      "LAK": "2026-10-01",
+      "LBP": "2026-10-01",
+      "LKR": "2026-10-01",
+      "LRD": "2026-10-01",
+      "LSL": "2026-10-01",
+      "LYD": "2026-10-01",
+      "MAD": "2026-10-01",
+      "MDL": "2026-10-01",
+      "MGA": "2026-10-01",
+      "MKD": "2026-09-30",
+      "MMK": "2026-10-01",
+      "MNT": "2026-10-01",
+      "MOP": "2026-10-01",
+      "MRO": "2026-09-30",
+      "MRU": "2026-10-01",
+      "MUR": "2026-10-01",
+      "MVR": "2026-10-01",
+      "MWK": "2026-10-01",
+      "MXN": "2026-10-01",
+      "MYR": "2026-10-01",
+      "MZN": "2026-10-01",
+      "NAD": "2026-10-01",
+      "NGN": "2026-10-01",
+      "NIO": "2026-10-01",
+      "NOK": "2026-10-01",
+      "NPR": "2026-10-01",
+      "NZD": "2026-10-01",
+      "OMR": "2026-10-01",
+      "PAB": "2026-10-01",
+      "PEN": "2026-10-01",
+      "PGK": "2026-10-01",
+      "PHP": "2026-10-01",
+      "PKR": "2026-10-01",
+      "PLN": "2026-10-01",
+      "PYG": "2026-10-01",
+      "QAR": "2026-10-01",
+      "RON": "2026-10-01",
+      "RSD": "2026-10-01",
+      "RUB": "2026-10-01",
+      "RWF": "2026-10-01",
+      "SAR": "2026-10-01",
+      "SBD": "2026-10-01",
+      "SCR": "2026-10-01",
+      "SDG": "2026-10-01",
+      "SEK": "2026-10-01",
+      "SGD": "2026-10-01",
+      "SHP": "2026-09-30",
+      "SLE": "2026-09-30",
+      "SOS": "2026-10-01",
+      "SRD": "2026-10-01",
+      "SSP": "2026-09-30",
+      "STN": "2026-09-30",
+      "SVC": "2026-10-01",
+      "SYP": "2026-10-01",
+      "SZL": "2026-10-01",
+      "THB": "2026-10-01",
+      "TJS": "2026-10-01",
+      "TMT": "2026-10-01",
+      "TND": "2026-10-01",
+      "TOP": "2026-10-01",
+      "TRY": "2026-10-01",
+      "TTD": "2026-09-30",
+      "TWD": "2026-10-01",
+      "TZS": "2026-10-01",
+      "UAH": "2026-10-01",
+      "UGX": "2026-10-01",
+      "USD": "2026-10-01",
+      "UYU": "2026-10-01",
+      "UZS": "2026-10-01",
+      "VES": "2026-10-01",
+      "VND": "2026-10-01",
+      "VUV": "2026-09-30",
+      "WST": "2026-10-01",
+      "XAF": "2026-09-30",
+      "XAG": "2026-10-01",
+      "XAU": "2026-10-01",
+      "XCD": "2026-09-30",
+      "XCG": "2026-09-30",
+      "XDR": "2026-10-01",
+      "XOF": "2026-09-30",
+      "XPD": "2026-10-01",
+      "XPF": "2026-09-30",
+      "XPT": "2026-10-01",
+      "YER": "2026-10-01",
+      "ZAR": "2026-10-01",
+      "ZMW": "2026-10-01",
+      "ZWG": "2026-09-30"
+    }
+  },
+  "currencies": [
+    {
+      "code": "AED",
+      "name": "United Arab Emirates Dirham"
+    },
+    {
+      "code": "AFN",
+      "name": "Afghan Afghani"
+    },
+    {
+      "code": "ALL",
+      "name": "Albanian Lek"
+    },
+    {
+      "code": "AMD",
+      "name": "Armenian Dram"
+    },
+    {
+      "code": "ANG",
+      "name": "Netherlands Antillean Guilder"
+    },
+    {
+      "code": "AOA",
+      "name": "Angolan Kwanza"
+    },
+    {
+      "code": "ARS",
+      "name": "Argentine Peso"
+    },
+    {
+      "code": "AUD",
+      "name": "Australian Dollar"
+    },
+    {
+      "code": "AWG",
+      "name": "Aruban Florin"
+    },
+    {
+      "code": "AZN",
+      "name": "Azerbaijani Manat"
+    },
+    {
+      "code": "BAM",
+      "name": "Bosnia and Herzegovina Convertible Mark"
+    },
+    {
+      "code": "BBD",
+      "name": "Barbadian Dollar"
+    },
+    {
+      "code": "BDT",
+      "name": "Bangladeshi Taka"
+    },
+    {
+      "code": "BHD",
+      "name": "Bahraini Dinar"
+    },
+    {
+      "code": "BIF",
+      "name": "Burundian Franc"
+    },
+    {
+      "code": "BMD",
+      "name": "Bermudian Dollar"
+    },
+    {
+      "code": "BND",
+      "name": "Brunei Dollar"
+    },
+    {
+      "code": "BOB",
+      "name": "Bolivian Boliviano"
+    },
+    {
+      "code": "BRL",
+      "name": "Brazilian Real"
+    },
+    {
+      "code": "BSD",
+      "name": "Bahamian Dollar"
+    },
+    {
+      "code": "BTN",
+      "name": "Bhutanese Ngultrum"
+    },
+    {
+      "code": "BWP",
+      "name": "Botswana Pula"
+    },
+    {
+      "code": "BYN",
+      "name": "Belarusian Ruble"
+    },
+    {
+      "code": "BZD",
+      "name": "Belize Dollar"
+    },
+    {
+      "code": "CAD",
+      "name": "Canadian Dollar"
+    },
+    {
+      "code": "CDF",
+      "name": "Congolese Franc"
+    },
+    {
+      "code": "CHF",
+      "name": "Swiss Franc"
+    },
+    {
+      "code": "CLP",
+      "name": "Chilean Peso"
+    },
+    {
+      "code": "CMD",
+      "name": "COMESA Dollar"
+    },
+    {
+      "code": "CNH",
+      "name": "Chinese Renminbi Yuan Offshore"
+    },
+    {
+      "code": "CNY",
+      "name": "Chinese Renminbi Yuan"
+    },
+    {
+      "code": "COP",
+      "name": "Colombian Peso"
+    },
+    {
+      "code": "CRC",
+      "name": "Costa Rican Colón"
+    },
+    {
+      "code": "CUP",
+      "name": "Cuban Peso"
+    },
+    {
+      "code": "CVE",
+      "name": "Cape Verdean Escudo"
+    },
+    {
+      "code": "CZK",
+      "name": "Czech Koruna"
+    },
+    {
+      "code": "DJF",
+      "name": "Djiboutian Franc"
+    },
+    {
+      "code": "DKK",
+      "name": "Danish Krone"
+    },
+    {
+      "code": "DOP",
+      "name": "Dominican Peso"
+    },
+    {
+      "code": "DZD",
+      "name": "Algerian Dinar"
+    },
+    {
+      "code": "EGP",
+      "name": "Egyptian Pound"
+    },
+    {
+      "code": "ERN",
+      "name": "Eritrean Nakfa"
+    },
+    {
+      "code": "ETB",
+      "name": "Ethiopian Birr"
+    },
+    {
+      "code": "EUR",
+      "name": "Euro"
+    },
+    {
+      "code": "FJD",
+      "name": "Fijian Dollar"
+    },
+    {
+      "code": "FKP",
+      "name": "Falkland Pound"
+    },
+    {
+      "code": "GBP",
+      "name": "British Pound"
+    },
+    {
+      "code": "GEL",
+      "name": "Georgian Lari"
+    },
+    {
+      "code": "GGP",
+      "name": "Guernsey Pound"
+    },
+    {
+      "code": "GHS",
+      "name": "Ghanaian Cedi"
+    },
+    {
+      "code": "GIP",
+      "name": "Gibraltar Pound"
+    },
+    {
+      "code": "GMD",
+      "name": "Gambian Dalasi"
+    },
+    {
+      "code": "GNF",
+      "name": "Guinean Franc"
+    },
+    {
+      "code": "GTQ",
+      "name": "Guatemalan Quetzal"
+    },
+    {
+      "code": "GYD",
+      "name": "Guyanese Dollar"
+    },
+    {
+      "code": "HKD",
+      "name": "Hong Kong Dollar"
+    },
+    {
+      "code": "HNL",
+      "name": "Honduran Lempira"
+    },
+    {
+      "code": "HTG",
+      "name": "Haitian Gourde"
+    },
+    {
+      "code": "HUF",
+      "name": "Hungarian Forint"
+    },
+    {
+      "code": "IDR",
+      "name": "Indonesian Rupiah"
+    },
+    {
+      "code": "ILS",
+      "name": "Israeli New Shekel"
+    },
+    {
+      "code": "IMP",
+      "name": "Isle of Man Pound"
+    },
+    {
+      "code": "INR",
+      "name": "Indian Rupee"
+    },
+    {
+      "code": "IQD",
+      "name": "Iraqi Dinar"
+    },
+    {
+      "code": "IRR",
+      "name": "Iranian Rial"
+    },
+    {
+      "code": "ISK",
+      "name": "Icelandic Króna"
+    },
+    {
+      "code": "JEP",
+      "name": "Jersey Pound"
+    },
+    {
+      "code": "JMD",
+      "name": "Jamaican Dollar"
+    },
+    {
+      "code": "JOD",
+      "name": "Jordanian Dinar"
+    },
+    {
+      "code": "JPY",
+      "name": "Japanese Yen"
+    },
+    {
+      "code": "KES",
+      "name": "Kenyan Shilling"
+    },
+    {
+      "code": "KGS",
+      "name": "Kyrgyzstani Som"
+    },
+    {
+      "code": "KHR",
+      "name": "Cambodian Riel"
+    },
+    {
+      "code": "KMF",
+      "name": "Comorian Franc"
+    },
+    {
+      "code": "KPW",
+      "name": "North Korean Won"
+    },
+    {
+      "code": "KRW",
+      "name": "South Korean Won"
+    },
+    {
+      "code": "KWD",
+      "name": "Kuwaiti Dinar"
+    },
+    {
+      "code": "KYD",
+      "name": "Cayman Islands Dollar"
+    },
+    {
+      "code": "KZT",
+      "name": "Kazakhstani Tenge"
+    },
+    {
+      "code": "LAK",
+      "name": "Lao Kip"
+    },
+    {
+      "code": "LBP",
+      "name": "Lebanese Pound"
+    },
+    {
+      "code": "LKR",
+      "name": "Sri Lankan Rupee"
+    },
+    {
+      "code": "LRD",
+      "name": "Liberian Dollar"
+    },
+    {
+      "code": "LSL",
+      "name": "Lesotho Loti"
+    },
+    {
+      "code": "LYD",
+      "name": "Libyan Dinar"
+    },
+    {
+      "code": "MAD",
+      "name": "Moroccan Dirham"
+    },
+    {
+      "code": "MDL",
+      "name": "Moldovan Leu"
+    },
+    {
+      "code": "MGA",
+      "name": "Malagasy Ariary"
+    },
+    {
+      "code": "MKD",
+      "name": "Macedonian Denar"
+    },
+    {
+      "code": "MMK",
+      "name": "Myanmar Kyat"
+    },
+    {
+      "code": "MNT",
+      "name": "Mongolian Tögrög"
+    },
+    {
+      "code": "MOP",
+      "name": "Macanese Pataca"
+    },
+    {
+      "code": "MRO",
+      "name": "Mauritanian Ouguiya"
+    },
+    {
+      "code": "MRU",
+      "name": "Mauritanian Ouguiya"
+    },
+    {
+      "code": "MUR",
+      "name": "Mauritian Rupee"
+    },
+    {
+      "code": "MVR",
+      "name": "Maldivian Rufiyaa"
+    },
+    {
+      "code": "MWK",
+      "name": "Malawian Kwacha"
+    },
+    {
+      "code": "MXN",
+      "name": "Mexican Peso"
+    },
+    {
+      "code": "MYR",
+      "name": "Malaysian Ringgit"
+    },
+    {
+      "code": "MZN",
+      "name": "Mozambican Metical"
+    },
+    {
+      "code": "NAD",
+      "name": "Namibian Dollar"
+    },
+    {
+      "code": "NGN",
+      "name": "Nigerian Naira"
+    },
+    {
+      "code": "NIO",
+      "name": "Nicaraguan Córdoba"
+    },
+    {
+      "code": "NOK",
+      "name": "Norwegian Krone"
+    },
+    {
+      "code": "NPR",
+      "name": "Nepalese Rupee"
+    },
+    {
+      "code": "NZD",
+      "name": "New Zealand Dollar"
+    },
+    {
+      "code": "OMR",
+      "name": "Omani Rial"
+    },
+    {
+      "code": "PAB",
+      "name": "Panamanian Balboa"
+    },
+    {
+      "code": "PEN",
+      "name": "Peruvian Sol"
+    },
+    {
+      "code": "PGK",
+      "name": "Papua New Guinean Kina"
+    },
+    {
+      "code": "PHP",
+      "name": "Philippine Peso"
+    },
+    {
+      "code": "PKR",
+      "name": "Pakistani Rupee"
+    },
+    {
+      "code": "PLN",
+      "name": "Polish Złoty"
+    },
+    {
+      "code": "PYG",
+      "name": "Paraguayan Guaraní"
+    },
+    {
+      "code": "QAR",
+      "name": "Qatari Riyal"
+    },
+    {
+      "code": "RON",
+      "name": "Romanian Leu"
+    },
+    {
+      "code": "RSD",
+      "name": "Serbian Dinar"
+    },
+    {
+      "code": "RUB",
+      "name": "Russian Ruble"
+    },
+    {
+      "code": "RWF",
+      "name": "Rwandan Franc"
+    },
+    {
+      "code": "SAR",
+      "name": "Saudi Riyal"
+    },
+    {
+      "code": "SBD",
+      "name": "Solomon Islands Dollar"
+    },
+    {
+      "code": "SCR",
+      "name": "Seychellois Rupee"
+    },
+    {
+      "code": "SDG",
+      "name": "Sudanese Pound"
+    },
+    {
+      "code": "SEK",
+      "name": "Swedish Krona"
+    },
+    {
+      "code": "SGD",
+      "name": "Singapore Dollar"
+    },
+    {
+      "code": "SHP",
+      "name": "Saint Helenian Pound"
+    },
+    {
+      "code": "SLE",
+      "name": "New Leone"
+    },
+    {
+      "code": "SOS",
+      "name": "Somali Shilling"
+    },
+    {
+      "code": "SRD",
+      "name": "Surinamese Dollar"
+    },
+    {
+      "code": "SSP",
+      "name": "South Sudanese Pound"
+    },
+    {
+      "code": "STN",
+      "name": "São Tomé and Príncipe Second Dobra"
+    },
+    {
+      "code": "SVC",
+      "name": "Salvadoran Colón"
+    },
+    {
+      "code": "SYP",
+      "name": "Syrian Pound"
+    },
+    {
+      "code": "SZL",
+      "name": "Swazi Lilangeni"
+    },
+    {
+      "code": "THB",
+      "name": "Thai Baht"
+    },
+    {
+      "code": "TJS",
+      "name": "Tajikistani Somoni"
+    },
+    {
+      "code": "TMT",
+      "name": "Turkmenistani Manat"
+    },
+    {
+      "code": "TND",
+      "name": "Tunisian Dinar"
+    },
+    {
+      "code": "TOP",
+      "name": "Tongan Paʻanga"
+    },
+    {
+      "code": "TRY",
+      "name": "Turkish Lira"
+    },
+    {
+      "code": "TTD",
+      "name": "Trinidad and Tobago Dollar"
+    },
+    {
+      "code": "TWD",
+      "name": "New Taiwan Dollar"
+    },
+    {
+      "code": "TZS",
+      "name": "Tanzanian Shilling"
+    },
+    {
+      "code": "UAH",
+      "name": "Ukrainian Hryvnia"
+    },
+    {
+      "code": "UGX",
+      "name": "Ugandan Shilling"
+    },
+    {
+      "code": "USD",
+      "name": "United States Dollar"
+    },
+    {
+      "code": "UYU",
+      "name": "Uruguayan Peso"
+    },
+    {
+      "code": "UZS",
+      "name": "Uzbekistan Som"
+    },
+    {
+      "code": "VES",
+      "name": "Venezuelan Bolívar Soberano"
+    },
+    {
+      "code": "VND",
+      "name": "Vietnamese Đồng"
+    },
+    {
+      "code": "VUV",
+      "name": "Vanuatu Vatu"
+    },
+    {
+      "code": "WST",
+      "name": "Samoan Tala"
+    },
+    {
+      "code": "XAF",
+      "name": "Central African CFA Franc"
+    },
+    {
+      "code": "XAG",
+      "name": "Silver (Troy Ounce)"
+    },
+    {
+      "code": "XAU",
+      "name": "Gold (Troy Ounce)"
+    },
+    {
+      "code": "XCD",
+      "name": "East Caribbean Dollar"
+    },
+    {
+      "code": "XCG",
+      "name": "Caribbean Guilder"
+    },
+    {
+      "code": "XDR",
+      "name": "Special Drawing Rights"
+    },
+    {
+      "code": "XOF",
+      "name": "West African CFA Franc"
+    },
+    {
+      "code": "XPD",
+      "name": "Palladium"
+    },
+    {
+      "code": "XPF",
+      "name": "CFP Franc"
+    },
+    {
+      "code": "XPT",
+      "name": "Platinum"
+    },
+    {
+      "code": "YER",
+      "name": "Yemeni Rial"
+    },
+    {
+      "code": "ZAR",
+      "name": "South African Rand"
+    },
+    {
+      "code": "ZMW",
+      "name": "Zambian Kwacha"
+    },
+    {
+      "code": "ZWG",
+      "name": "Zimbabwe Gold"
+    }
+  ]
+}
